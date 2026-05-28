@@ -17,21 +17,21 @@
             "anti-cheat"
         ],
         "images": {
-            "icon": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/icon.jpg",
-            "poster": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/poster.jpg",
-            "background": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/background.jpg",
+            "icon": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/icon.jpg",
+            "poster": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/poster.jpg",
+            "background": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/background.jpg",
             "slides": [
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/slide1.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/slide2.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/slide3.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/slide4.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/slide5.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/slide6.jpg"
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/slide1.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/slide2.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/slide3.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/slide4.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/slide5.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/slide6.jpg"
             ]
         }
     },
     "package": {
-        "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/neverness-to-everness/package.json",
+        "url": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/neverness-to-everness/package.json",
         "output": "integration"
     }
 }

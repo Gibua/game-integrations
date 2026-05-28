@@ -11,7 +11,7 @@ Add hyvlib package to your integration package inputs:
 {
     "version": 1,
     "inputs": {
-        "hyvlib": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/rewrite/packages/hyvlib/package.json"
+        "hyvlib": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/rewrite/packages/hyvlib/package.json"
     }
 }
 ```

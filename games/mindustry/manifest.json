@@ -16,21 +16,21 @@
         "developer": "Anuken",
         "publisher": "Anuken",
         "images": {
-            "icon": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/icon.png",
-            "poster": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/poster.jpg",
-            "background": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/background.jpg",
+            "icon": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/icon.png",
+            "poster": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/poster.jpg",
+            "background": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/background.jpg",
             "slides": [
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/slide1.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/slide2.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/slide3.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/slide4.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/slide5.jpg",
-                "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/slide6.jpg"
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/slide1.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/slide2.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/slide3.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/slide4.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/slide5.jpg",
+                "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/slide6.jpg"
             ]
         }
     },
     "package": {
-        "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/package.json",
+        "url": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/mindustry/package.json",
         "output": "integration"
     }
 }

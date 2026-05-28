@@ -29,7 +29,7 @@ Add `i18n` package to your integration package inputs:
 ```json
 {
     "inputs": {
-        "i18n": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/rewrite/packages/i18n/package.json"
+        "i18n": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/rewrite/packages/i18n/package.json"
     }
 }
 ```

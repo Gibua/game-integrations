@@ -10,7 +10,7 @@ Add jadeite module to your package inputs:
 {
     "standard": 1,
     "inputs": {
-        "jadeite": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/rewrite/packages/jadeite/jadeite.luau"
+        "jadeite": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/rewrite/packages/jadeite/jadeite.luau"
     }
 }
 ```

@@ -1,7 +1,7 @@
 # Standard Anime Games Launcher packages index
 
 This repository contains official packages and games integration modules
-for [Anime Games Launcher](https://github.com/an-anime-team/anime-games-launcher).
+for [Anime Games Launcher](https://github.com/Gibua/anime-games-launcher).
 
 Everything in this repository, if not stated otherwise, is licensed under
 [GPL-3.0-or-later](./LICENSE).
