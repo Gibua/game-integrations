@@ -32,11 +32,11 @@
         {
             "url": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/votv/manifest.json",
             "featured": true
-        }
+        },
         {
             "url": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/wuwa/manifest.json",
             "featured": true
-        }
+        },
         {
             "url": "https://raw.githubusercontent.com/Gibua/game-integrations/refs/heads/master/games/zzz/manifest.json",
             "featured": true
